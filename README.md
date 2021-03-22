@@ -2,6 +2,8 @@
 Ubuntu 18.04 LTS  
 ROS melodic  
 LG V30S+  
+
+
 -환기최-
   
 
